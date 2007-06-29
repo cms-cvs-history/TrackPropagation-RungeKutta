@@ -1,6 +1,4 @@
 
-<use name=TrackPropagation/NavPropagator>
-<use name=TrackPropagation/NavGeometry>
 <use name=TrackPropagation/RungeKutta>
 <use name=MagneticField/Engine>
 <use name=MagneticField/Records>
@@ -9,8 +7,6 @@
 <use name=root>
 
 <library file="RKTest.cc" name=RKTest>
-  <use name=TrackPropagation/NavPropagator>
-  <use name=TrackPropagation/NavGeometry>
   <use name=TrackPropagation/RungeKutta>
   <use name=MagneticField/Engine>
   <use name=MagneticField/Records>
