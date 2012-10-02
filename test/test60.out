@@ -1,0 +1,456 @@
+And now trying costh, phi = -0.99, -3.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-1.62461,-13.9845,-99.0171) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-1.70643,-13.9718,-99.0188) 
+Succesfully finished Negative track propagation  -------------- with RK:  (1.58006,-13.9896,-99.0171) 
+Succesfully finished Negative track propagation  -------------- with AN:  (1.66192,-13.9771,-99.0188) 
+And now trying costh, phi = -0.69, -3.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-8.41844,-72.0646,-69.3179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-8.84055,-72.0325,-69.3508) 
+Succesfully finished Negative track propagation  -------------- with RK:  (8.18886,-72.0911,-69.3179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (8.61107,-72.0603,-69.3508) 
+And now trying costh, phi = -0.39, -3.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-10.7795,-91.9399,-39.2938) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-11.3182,-91.9263,-39.324) 
+Succesfully finished Negative track propagation  -------------- with RK:  (10.4866,-91.9738,-39.2938) 
+Succesfully finished Negative track propagation  -------------- with AN:  (11.0253,-91.9619,-39.324) 
+And now trying costh, phi = -0.09, -3.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-11.6934,-99.5685,-9.07973) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-12.2765,-99.5668,-9.08785) 
+Succesfully finished Negative track propagation  -------------- with RK:  (11.3762,-99.6052,-9.07973) 
+Succesfully finished Negative track propagation  -------------- with AN:  (11.9593,-99.6054,-9.08785) 
+And now trying costh, phi = 0.21, -3.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-11.4712,-97.7135,21.179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-12.0431,-97.7087,21.1973) 
+Succesfully finished Negative track propagation  -------------- with RK:  (11.1599,-97.7496,21.179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (11.7318,-97.7466,21.1973) 
+And now trying costh, phi = 0.51, -3.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-10.0487,-85.8034,51.3342) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-10.5504,-85.7822,51.3686) 
+Succesfully finished Negative track propagation  -------------- with RK:  (9.77539,-85.835,51.3342) 
+Succesfully finished Negative track propagation  -------------- with AN:  (10.2771,-85.8154,51.3686) 
+And now trying costh, phi = 0.81, -3.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-6.79748,-58.2958,81.2436) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-7.13776,-58.2602,81.2689) 
+Succesfully finished Negative track propagation  -------------- with RK:  (6.61177,-58.3171,81.2436) 
+Succesfully finished Negative track propagation  -------------- with AN:  (6.95216,-58.2827,81.2689) 
+And now trying costh, phi = -0.99, -2.64
+Succesfully finished Positive track propagation  -------------- with RK:  (-8.13027,-11.4937,-99.0171) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-8.19597,-11.4433,-99.0188) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-5.32035,-13.0346,-99.0171) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-5.24253,-13.0629,-99.0188) 
+And now trying costh, phi = -0.69, -2.64
+Succesfully finished Positive track propagation  -------------- with RK:  (-41.9375,-59.2066,-69.3179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-42.2925,-58.9761,-69.3508) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-27.3759,-67.1918,-69.3179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-26.9906,-67.3672,-69.3508) 
+And now trying costh, phi = -0.39, -2.64
+Succesfully finished Positive track propagation  -------------- with RK:  (-53.5383,-75.5169,-39.2938) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-54.0045,-75.2467,-39.324) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-34.8917,-85.7422,-39.2938) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-34.4132,-85.99,-39.324) 
+And now trying costh, phi = -0.09, -2.64
+Succesfully finished Positive track propagation  -------------- with RK:  (-57.9976,-81.7735,-9.07973) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-58.5085,-81.4924,-9.08785) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-37.7698,-92.8658,-9.07973) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-37.2581,-93.1456,-9.08785) 
+And now trying costh, phi = 0.21, -2.64
+Succesfully finished Positive track propagation  -------------- with RK:  (-56.9133,-80.2521,21.179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-57.4128,-79.9737,21.1973) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-37.0699,-91.1337,21.179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-36.5666,-91.4052,21.1973) 
+And now trying costh, phi = 0.51, -2.64
+Succesfully finished Positive track propagation  -------------- with RK:  (-49.9549,-70.482,51.3342) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-50.3851,-70.2228,51.3686) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-32.5728,-80.0139,51.3342) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-32.1231,-80.2372,51.3686) 
+And now trying costh, phi = 0.81, -2.64
+Succesfully finished Positive track propagation  -------------- with RK:  (-33.9138,-47.9005,81.2436) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-34.1954,-47.7061,81.2689) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-22.1563,-54.3479,81.2436) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-21.8411,-54.4809,81.2689) 
+And now trying costh, phi = -0.99, -2.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-12.6454,-6.1888,-99.0171) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-12.6788,-6.11307,-99.0188) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-10.9182,-8.8882,-99.0171) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-10.8634,-8.95034,-99.0188) 
+And now trying costh, phi = -0.69, -2.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-65.1888,-31.8528,-69.3179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-65.3898,-31.4803,-69.3508) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-56.2381,-45.8417,-69.3179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-55.9841,-46.1803,-69.3508) 
+And now trying costh, phi = -0.39, -2.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-83.189,-40.6047,-39.2938) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-83.4686,-40.1441,-39.324) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-71.7273,-58.5178,-39.2938) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-71.4263,-58.9647,-39.324) 
+And now trying costh, phi = -0.09, -2.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-90.1019,-43.9575,-9.07973) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-90.4156,-43.4658,-9.08785) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-77.6683,-63.3896,-9.07973) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-77.3534,-63.8805,-9.08785) 
+And now trying costh, phi = 0.21, -2.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-88.421,-43.1422,21.179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-88.7259,-42.6583,21.1973) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-76.2237,-62.205,21.179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-75.9122,-62.6847,21.1973) 
+And now trying costh, phi = 0.51, -2.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-77.6304,-37.9041,51.3342) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-77.8837,-37.4705,51.3686) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-66.946,-54.6025,51.3342) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-66.6584,-55.0142,51.3686) 
+And now trying costh, phi = 0.81, -2.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-52.7269,-25.7775,81.2436) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-52.8808,-25.4719,81.2689) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-45.4998,-37.0725,81.2436) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-45.2869,-37.3403,81.2689) 
+And now trying costh, phi = -0.99, -1.64
+Succesfully finished Positive track propagation  -------------- with RK:  (-14.0644,0.631319,-99.0171) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-14.0575,0.713834,-99.0188) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-13.8428,-2.56569,-99.0171) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-13.8246,-2.64646,-99.0188) 
+And now trying costh, phi = -0.69, -1.64
+Succesfully finished Positive track propagation  -------------- with RK:  (-72.4796,3.2997,-69.3179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-72.4774,3.72302,-69.3508) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-71.3312,-13.2679,-69.3179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-71.2706,-13.6868,-69.3508) 
+And now trying costh, phi = -0.39, -1.64
+Succesfully finished Positive track propagation  -------------- with RK:  (-92.4721,4.24894,-39.2938) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-92.4967,4.78723,-39.324) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-91.0016,-16.9663,-39.2938) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-90.9517,-17.5029,-39.324) 
+And now trying costh, phi = -0.09, -1.64
+Succesfully finished Positive track propagation  -------------- with RK:  (-100.146,4.62087,-9.07973) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-100.186,5.20269,-9.08785) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-98.551,-18.3935,-9.07973) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-98.5099,-18.9752,-9.08785) 
+And now trying costh, phi = 0.21, -1.64
+Succesfully finished Positive track propagation  -------------- with RK:  (-98.2802,4.53045,21.179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-98.3158,5.10127,21.1973) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-96.7153,-18.0465,21.179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-96.6718,-18.6167,21.1973) 
+And now trying costh, phi = 0.51, -1.64
+Succesfully finished Positive track propagation  -------------- with RK:  (-86.2993,3.95406,51.3342) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-86.3136,4.456,51.3686) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-84.9285,-15.8226,51.3342) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-84.8734,-16.3217,51.3686) 
+And now trying costh, phi = 0.81, -1.64
+Succesfully finished Positive track propagation  -------------- with RK:  (-58.6306,2.65677,81.2436) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-58.6192,2.99872,81.2689) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-57.7033,-10.7204,81.2436) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-57.6449,-11.0575,81.2689) 
+And now trying costh, phi = -0.99, -1.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-12.04,7.29687,-99.0171) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-11.9944,7.36597,-99.0188) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-13.3783,4.38499,-99.0171) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-13.401,4.30536,-99.0188) 
+And now trying costh, phi = -0.69, -1.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-62.0249,37.6443,-69.3179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-61.82,38.0148,-69.3508) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-68.96,22.5544,-69.3179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-69.1077,22.1576,-69.3508) 
+And now trying costh, phi = -0.39, -1.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-79.1149,48.0623,-39.2938) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-78.8784,48.5465,-39.324) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-87.9955,28.7391,-39.2938) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-88.2089,28.2443,-39.324) 
+And now trying costh, phi = -0.09, -1.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-85.6712,52.0679,-9.07973) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-85.427,52.5974,-9.08785) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-95.3049,31.1061,-9.07973) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-95.5478,30.5759,-9.08785) 
+And now trying costh, phi = 0.21, -1.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-84.077,51.0939,21.179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-83.8346,51.6119,21.1973) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-93.5276,30.5305,21.179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-93.7628,30.0092,21.1973) 
+And now trying costh, phi = 0.51, -1.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-73.8391,44.8441,51.3342) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-73.611,45.2915,51.3686) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-82.1175,26.8312,51.3342) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-82.3085,26.3668,51.3686) 
+And now trying costh, phi = 0.81, -1.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-50.1795,30.4405,81.2436) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-50.0055,30.7352,81.2689) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-55.7791,18.2564,81.2436) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-55.8894,17.9326,81.2689) 
+And now trying costh, phi = -0.99, -0.64
+Succesfully finished Positive track propagation  -------------- with RK:  (-7.0678,12.1759,-99.0171) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-6.99462,12.2147,-99.0188) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-9.63826,10.2621,-99.0171) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-9.69637,10.2031,-99.0188) 
+And now trying costh, phi = -0.69, -0.64
+Succesfully finished Positive track propagation  -------------- with RK:  (-36.3843,62.7723,-69.3179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-36.0269,62.9992,-69.3508) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-49.7049,52.8545,-69.3179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-50.0248,52.5772,-69.3508) 
+And now trying costh, phi = -0.39, -0.64
+Succesfully finished Positive track propagation  -------------- with RK:  (-46.3875,80.1083,-39.2938) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-45.9479,80.4198,-39.324) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-63.4451,67.4083,-39.2938) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-63.8695,67.0763,-39.324) 
+And now trying costh, phi = -0.09, -0.64
+Succesfully finished Positive track propagation  -------------- with RK:  (-50.2209,86.7668,-9.07973) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-49.7527,87.1145,-9.08785) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-68.7249,72.9898,-9.07973) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-69.1922,72.6409,-9.08785) 
+And now trying costh, phi = 0.21, -0.64
+Succesfully finished Positive track propagation  -------------- with RK:  (-49.2888,85.1478,21.179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-48.8277,85.4861,21.1973) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-67.4411,71.6326,21.179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-67.8975,71.2879,21.1973) 
+And now trying costh, phi = 0.51, -0.64
+Succesfully finished Positive track propagation  -------------- with RK:  (-43.3005,74.7547,51.3342) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-42.8859,75.038,51.3686) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-59.2013,62.9159,51.3342) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-59.5916,62.5999,51.3686) 
+And now trying costh, phi = 0.81, -0.64
+Succesfully finished Positive track propagation  -------------- with RK:  (-29.4426,50.7714,81.2436) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-29.1488,50.9466,81.2689) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-40.1981,42.7634,81.2436) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-40.4502,42.5321,81.2689) 
+And now trying costh, phi = -0.99, -0.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-0.36514,14.0738,-99.0171) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-0.282342,14.0728,-99.0188) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-3.53847,13.6266,-99.0171) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-3.61775,13.6027,-99.0188) 
+And now trying costh, phi = -0.69, -0.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-1.83557,72.5314,-69.3179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-1.41315,72.5592,-69.3508) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-18.2804,70.214,-69.3179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-18.694,70.1239,-69.3508) 
+And now trying costh, phi = -0.39, -0.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-2.30292,92.5411,-39.2938) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-1.76772,92.6036,-39.324) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-23.361,89.5735,-39.2938) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-23.8927,89.4857,-39.324) 
+And now trying costh, phi = -0.09, -0.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-2.47476,100.222,-9.07973) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-1.89721,100.303,-9.08785) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-25.3186,97.003,-9.07973) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-25.896,96.9209,-9.08785) 
+And now trying costh, phi = 0.21, -0.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-2.43297,98.3545,21.179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-1.86609,98.4304,21.1973) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-24.8426,95.1965,21.179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-25.4084,95.1128,21.1973) 
+And now trying costh, phi = 0.51, -0.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-2.16041,86.3628,51.3342) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-1.66075,86.4126,51.3686) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-21.7906,83.5965,51.3342) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-22.2846,83.5063,51.3686) 
+And now trying costh, phi = 0.81, -0.14
+Succesfully finished Positive track propagation  -------------- with RK:  (-1.49725,58.6716,81.2436) 
+Succesfully finished Positive track propagation  -------------- with AN:  (-1.15535,58.6845,81.2689) 
+Succesfully finished Negative track propagation  -------------- with RK:  (-14.7753,56.8005,81.2436) 
+Succesfully finished Negative track propagation  -------------- with AN:  (-15.1074,56.7183,81.2689) 
+And now trying costh, phi = -0.99, 0.36
+Succesfully finished Positive track propagation  -------------- with RK:  (6.42692,12.526,-99.0171) 
+Succesfully finished Positive track propagation  -------------- with AN:  (6.49907,12.4854,-99.0188) 
+Succesfully finished Negative track propagation  -------------- with RK:  (3.42766,13.6549,-99.0171) 
+Succesfully finished Negative track propagation  -------------- with AN:  (3.34663,13.672,-99.0188) 
+And now trying costh, phi = -0.69, 0.36
+Succesfully finished Positive track propagation  -------------- with RK:  (33.1626,64.5323,-69.3179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (33.5466,64.3542,-69.3508) 
+Succesfully finished Negative track propagation  -------------- with RK:  (17.6198,70.3827,-69.3179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (17.2136,70.502,-69.3508) 
+And now trying costh, phi = -0.39, 0.36
+Succesfully finished Positive track propagation  -------------- with RK:  (42.3455,82.3165,-39.2938) 
+Succesfully finished Positive track propagation  -------------- with AN:  (42.8452,82.1148,-39.324) 
+Succesfully finished Negative track propagation  -------------- with RK:  (22.4426,89.808,-39.2938) 
+Succesfully finished Negative track propagation  -------------- with AN:  (21.9339,89.9859,-39.324) 
+And now trying costh, phi = -0.09, 0.36
+Succesfully finished Positive track propagation  -------------- with RK:  (45.8773,89.1397,-9.07973) 
+Succesfully finished Positive track propagation  -------------- with AN:  (46.4228,88.9336,-9.08785) 
+Succesfully finished Negative track propagation  -------------- with RK:  (24.2866,97.2665,-9.07973) 
+Succesfully finished Negative track propagation  -------------- with AN:  (23.7405,97.4713,-9.08785) 
+And now trying costh, phi = 0.21, 0.36
+Succesfully finished Positive track propagation  -------------- with RK:  (45.0185,87.4806,21.179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (45.5524,87.2754,21.1973) 
+Succesfully finished Negative track propagation  -------------- with RK:  (23.8382,95.4529,21.179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (23.3015,95.6507,21.1973) 
+And now trying costh, phi = 0.51, 0.36
+Succesfully finished Positive track propagation  -------------- with RK:  (39.5086,76.8263,51.3342) 
+Succesfully finished Positive track propagation  -------------- with AN:  (39.971,76.6304,51.3686) 
+Succesfully finished Negative track propagation  -------------- with RK:  (20.9552,83.8098,51.3342) 
+Succesfully finished Negative track propagation  -------------- with AN:  (20.4785,83.9674,51.3686) 
+And now trying costh, phi = 0.81, 0.36
+Succesfully finished Positive track propagation  -------------- with RK:  (26.8147,52.207,81.2436) 
+Succesfully finished Positive track propagation  -------------- with AN:  (27.1209,52.0544,81.2689) 
+Succesfully finished Negative track propagation  -------------- with RK:  (14.265,56.9308,81.2436) 
+Succesfully finished Negative track propagation  -------------- with AN:  (13.9342,57.0179,81.2689) 
+And now trying costh, phi = -0.99, 0.86
+Succesfully finished Positive track propagation  -------------- with RK:  (11.6454,7.91138,-99.0171) 
+Succesfully finished Positive track propagation  -------------- with AN:  (11.6893,7.84113,-99.0188) 
+Succesfully finished Negative track propagation  -------------- with RK:  (9.55459,10.34,-99.0171) 
+Succesfully finished Negative track propagation  -------------- with AN:  (9.49163,10.3938,-99.0188) 
+And now trying costh, phi = -0.69, 0.86
+Succesfully finished Positive track propagation  -------------- with RK:  (60.0413,40.7335,-69.3179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (60.2929,40.393,-69.3508) 
+Succesfully finished Negative track propagation  -------------- with RK:  (49.2061,53.3192,-69.3179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (48.9068,53.6186,-69.3508) 
+And now trying costh, phi = -0.39, 0.86
+Succesfully finished Positive track propagation  -------------- with RK:  (76.6263,51.938,-39.2938) 
+Succesfully finished Positive track propagation  -------------- with AN:  (76.9681,51.5214,-39.324) 
+Succesfully finished Negative track propagation  -------------- with RK:  (62.7515,68.0544,-39.2938) 
+Succesfully finished Negative track propagation  -------------- with AN:  (62.3904,68.4543,-39.324) 
+And now trying costh, phi = -0.09, 0.86
+Succesfully finished Positive track propagation  -------------- with RK:  (82.997,56.2327,-9.07973) 
+Succesfully finished Positive track propagation  -------------- with AN:  (83.3769,55.7903,-9.08785) 
+Succesfully finished Negative track propagation  -------------- with RK:  (67.9455,73.7158,-9.07973) 
+Succesfully finished Negative track propagation  -------------- with AN:  (67.5645,74.1573,-9.08785) 
+And now trying costh, phi = 0.21, 0.86
+Succesfully finished Positive track propagation  -------------- with RK:  (81.4479,55.1884,21.179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (81.8181,54.7524,21.1973) 
+Succesfully finished Negative track propagation  -------------- with RK:  (66.6825,72.3392,21.179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (66.3064,72.7701,21.1973) 
+And now trying costh, phi = 0.51, 0.86
+Succesfully finished Positive track propagation  -------------- with RK:  (71.5045,48.48,51.3342) 
+Succesfully finished Positive track propagation  -------------- with AN:  (71.8164,48.0864,51.3686) 
+Succesfully finished Negative track propagation  -------------- with RK:  (58.5705,63.5035,51.3342) 
+Succesfully finished Negative track propagation  -------------- with AN:  (58.2277,63.8705,51.3686) 
+And now trying costh, phi = 0.81, 0.86
+Succesfully finished Positive track propagation  -------------- with RK:  (48.5615,32.9603,81.2436) 
+Succesfully finished Positive track propagation  -------------- with AN:  (48.757,32.6796,81.2689) 
+Succesfully finished Negative track propagation  -------------- with RK:  (39.8128,43.1224,81.2436) 
+Succesfully finished Negative track propagation  -------------- with AN:  (39.5642,43.3575,81.2689) 
+And now trying costh, phi = -0.99, 1.36
+Succesfully finished Positive track propagation  -------------- with RK:  (14.0128,1.35977,-99.0171) 
+Succesfully finished Positive track propagation  -------------- with AN:  (14.0175,1.2771,-99.0188) 
+Succesfully finished Negative track propagation  -------------- with RK:  (13.3422,4.49352,-99.0171) 
+Succesfully finished Negative track propagation  -------------- with AN:  (13.3128,4.5709,-99.0188) 
+And now trying costh, phi = -0.69, 1.36
+Succesfully finished Positive track propagation  -------------- with RK:  (72.2199,6.96164,-69.3179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (72.2775,6.54225,-69.3508) 
+Succesfully finished Negative track propagation  -------------- with RK:  (68.745,23.2014,-69.3179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (68.6259,23.6076,-69.3508) 
+And now trying costh, phi = -0.39, 1.36
+Succesfully finished Positive track propagation  -------------- with RK:  (92.1463,8.84325,-39.2938) 
+Succesfully finished Positive track propagation  -------------- with AN:  (92.2466,8.31381,-39.324) 
+Succesfully finished Negative track propagation  -------------- with RK:  (87.6966,29.6387,-39.2938) 
+Succesfully finished Negative track propagation  -------------- with AN:  (87.5714,30.1628,-39.324) 
+And now trying costh, phi = -0.09, 1.36
+Succesfully finished Positive track propagation  -------------- with RK:  (99.7961,9.558,-9.07973) 
+Succesfully finished Positive track propagation  -------------- with AN:  (99.9174,8.9876,-9.08785) 
+Succesfully finished Negative track propagation  -------------- with RK:  (94.969,32.1169,-9.07973) 
+Succesfully finished Negative track propagation  -------------- with AN:  (94.8463,32.687,-9.08785) 
+And now trying costh, phi = 0.21, 1.36
+Succesfully finished Positive track propagation  -------------- with RK:  (97.936,9.3842,21.179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (98.0518,8.82411,21.1973) 
+Succesfully finished Negative track propagation  -------------- with RK:  (93.2007,31.5143,21.179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (93.0772,32.0728,21.1973) 
+And now trying costh, phi = 0.51, 1.36
+Succesfully finished Positive track propagation  -------------- with RK:  (85.9936,8.26406,51.3342) 
+Succesfully finished Positive track propagation  -------------- with AN:  (86.0787,7.76918,51.3686) 
+Succesfully finished Negative track propagation  -------------- with RK:  (81.8457,27.6494,51.3342) 
+Succesfully finished Negative track propagation  -------------- with AN:  (81.7207,28.1357,51.3686) 
+And now trying costh, phi = 0.81, 1.36
+Succesfully finished Positive track propagation  -------------- with RK:  (58.4188,5.64376,81.2436) 
+Succesfully finished Positive track propagation  -------------- with AN:  (58.4557,5.30363,81.2689) 
+Succesfully finished Negative track propagation  -------------- with RK:  (55.613,18.7562,81.2436) 
+Succesfully finished Negative track propagation  -------------- with AN:  (55.5076,19.0817,81.2689) 
+And now trying costh, phi = -0.99, 1.86
+Succesfully finished Positive track propagation  -------------- with RK:  (12.9493,-5.52476,-99.0171) 
+Succesfully finished Positive track propagation  -------------- with AN:  (12.9138,-5.59961,-99.0188) 
+Succesfully finished Negative track propagation  -------------- with RK:  (13.8632,-2.45317,-99.0171) 
+Succesfully finished Negative track propagation  -------------- with AN:  (13.8744,-2.37113,-99.0188) 
+And now trying costh, phi = -0.69, 1.86
+Succesfully finished Positive track propagation  -------------- with RK:  (66.7165,-28.5147,-69.3179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (66.566,-28.9103,-69.3508) 
+Succesfully finished Negative track propagation  -------------- with RK:  (71.4527,-12.597,-69.3179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (71.543,-12.1834,-69.3508) 
+And now trying costh, phi = -0.39, 1.86
+Succesfully finished Positive track propagation  -------------- with RK:  (85.1057,-36.4166,-39.2938) 
+Succesfully finished Positive track propagation  -------------- with AN:  (84.9399,-36.9293,-39.324) 
+Succesfully finished Negative track propagation  -------------- with RK:  (91.1706,-16.0336,-39.2938) 
+Succesfully finished Negative track propagation  -------------- with AN:  (91.312,-15.5137,-39.324) 
+And now trying costh, phi = -0.09, 1.86
+Succesfully finished Positive track propagation  -------------- with RK:  (92.1617,-39.4569,-9.07973) 
+Succesfully finished Positive track propagation  -------------- with AN:  (91.9946,-40.0156,-9.08785) 
+Succesfully finished Negative track propagation  -------------- with RK:  (98.7408,-17.3454,-9.07973) 
+Succesfully finished Negative track propagation  -------------- with AN:  (98.9064,-16.7862,-9.08785) 
+And now trying costh, phi = 0.21, 1.86
+Succesfully finished Positive track propagation  -------------- with RK:  (90.446,-38.7176,21.179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (90.2791,-39.2647,21.1973) 
+Succesfully finished Negative track propagation  -------------- with RK:  (96.9001,-17.0264,21.179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (97.0594,-16.4771,21.1973) 
+And now trying costh, phi = 0.51, 1.86
+Succesfully finished Positive track propagation  -------------- with RK:  (79.4285,-33.9752,51.3342) 
+Succesfully finished Positive track propagation  -------------- with AN:  (79.2659,-34.4502,51.3686) 
+Succesfully finished Negative track propagation  -------------- with RK:  (85.0822,-14.9743,51.3342) 
+Succesfully finished Negative track propagation  -------------- with AN:  (85.2057,-14.4876,51.3686) 
+And now trying costh, phi = 0.81, 1.86
+Succesfully finished Positive track propagation  -------------- with RK:  (53.973,-23.0546,81.2436) 
+Succesfully finished Positive track propagation  -------------- with AN:  (53.8424,-23.3708,81.2689) 
+Succesfully finished Negative track propagation  -------------- with RK:  (57.7972,-10.2022,81.2436) 
+Succesfully finished Negative track propagation  -------------- with AN:  (57.8607,-9.86599,81.2689) 
+And now trying costh, phi = -0.99, 2.36
+Succesfully finished Positive track propagation  -------------- with RK:  (8.71533,-11.0566,-99.0171) 
+Succesfully finished Positive track propagation  -------------- with AN:  (8.64836,-11.1053,-99.0188) 
+Succesfully finished Negative track propagation  -------------- with RK:  (10.99,-8.79923,-99.0171) 
+Succesfully finished Negative track propagation  -------------- with AN:  (11.0392,-8.73263,-99.0188) 
+And now trying costh, phi = -0.69, 2.36
+Succesfully finished Positive track propagation  -------------- with RK:  (44.8786,-57.0096,-69.3179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (44.5568,-57.2846,-69.3508) 
+Succesfully finished Negative track propagation  -------------- with RK:  (56.6664,-45.3112,-69.3179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (56.9438,-44.9915,-69.3508) 
+And now trying costh, phi = -0.39, 2.36
+Succesfully finished Positive track propagation  -------------- with RK:  (57.2282,-72.7604,-39.2938) 
+Succesfully finished Positive track propagation  -------------- with AN:  (56.8369,-73.1309,-39.324) 
+Succesfully finished Negative track propagation  -------------- with RK:  (72.3228,-57.7803,-39.2938) 
+Succesfully finished Negative track propagation  -------------- with AN:  (72.6962,-57.3918,-39.324) 
+And now trying costh, phi = -0.09, 2.36
+Succesfully finished Positive track propagation  -------------- with RK:  (61.9628,-78.8113,-9.07973) 
+Succesfully finished Positive track propagation  -------------- with AN:  (61.5484,-79.2216,-9.08785) 
+Succesfully finished Negative track propagation  -------------- with RK:  (78.3374,-62.5609,-9.07973) 
+Succesfully finished Negative track propagation  -------------- with AN:  (78.7508,-62.1496,-9.08785) 
+And now trying costh, phi = 0.21, 2.36
+Succesfully finished Positive track propagation  -------------- with RK:  (60.8116,-77.34,21.179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (60.4029,-77.7401,21.1973) 
+Succesfully finished Negative track propagation  -------------- with RK:  (76.8749,-61.3984,21.179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (77.2781,-60.9928,21.1973) 
+And now trying costh, phi = 0.51, 2.36
+Succesfully finished Positive track propagation  -------------- with RK:  (53.4165,-67.8961,51.3342) 
+Succesfully finished Positive track propagation  -------------- with AN:  (53.0461,-68.235,51.3686) 
+Succesfully finished Negative track propagation  -------------- with RK:  (67.4876,-53.9317,51.3342) 
+Succesfully finished Negative track propagation  -------------- with AN:  (67.8293,-53.5638,51.3686) 
+And now trying costh, phi = 0.81, 2.36
+Succesfully finished Positive track propagation  -------------- with RK:  (36.3129,-46.1083,81.2436) 
+Succesfully finished Positive track propagation  -------------- with AN:  (36.0466,-46.3232,81.2689) 
+Succesfully finished Negative track propagation  -------------- with RK:  (45.8306,-36.6627,81.2436) 
+Succesfully finished Negative track propagation  -------------- with AN:  (46.0476,-36.3981,81.2689) 
+And now trying costh, phi = -0.99, 2.86
+Succesfully finished Positive track propagation  -------------- with RK:  (2.34759,-13.8815,-99.0171) 
+Succesfully finished Positive track propagation  -------------- with AN:  (2.26547,-13.8921,-99.0188) 
+Succesfully finished Negative track propagation  -------------- with RK:  (5.42605,-12.9909,-99.0171) 
+Succesfully finished Negative track propagation  -------------- with AN:  (5.50116,-12.9561,-99.0188) 
+And now trying costh, phi = -0.69, 2.86
+Succesfully finished Positive track propagation  -------------- with RK:  (12.0528,-71.5465,-69.3179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (11.6386,-71.6336,-69.3508) 
+Succesfully finished Negative track propagation  -------------- with RK:  (28.0061,-66.9316,-69.3179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (28.4029,-66.7841,-69.3508) 
+And now trying costh, phi = -0.39, 2.86
+Succesfully finished Positive track propagation  -------------- with RK:  (15.3393,-91.29,-39.2938) 
+Succesfully finished Positive track propagation  -------------- with AN:  (14.8183,-91.4274,-39.324) 
+Succesfully finished Negative track propagation  -------------- with RK:  (35.7679,-85.3804,-39.2938) 
+Succesfully finished Negative track propagation  -------------- with AN:  (36.2818,-85.2185,-39.324) 
+And now trying costh, phi = -0.09, 2.86
+Succesfully finished Positive track propagation  -------------- with RK:  (16.5934,-98.87,-9.07973) 
+Succesfully finished Positive track propagation  -------------- with AN:  (16.033,-99.0313,-9.08785) 
+Succesfully finished Negative track propagation  -------------- with RK:  (38.7543,-92.4593,-9.07973) 
+Succesfully finished Negative track propagation  -------------- with AN:  (39.3143,-92.2965,-9.08785) 
+And now trying costh, phi = 0.21, 2.86
+Succesfully finished Positive track propagation  -------------- with RK:  (16.2884,-97.0269,21.179) 
+Succesfully finished Positive track propagation  -------------- with AN:  (15.7379,-97.182,21.1973) 
+Succesfully finished Negative track propagation  -------------- with RK:  (38.0281,-90.738,21.179) 
+Succesfully finished Negative track propagation  -------------- with AN:  (38.5764,-90.5753,21.1973) 
+And now trying costh, phi = 0.51, 2.86
+Succesfully finished Positive track propagation  -------------- with RK:  (14.3263,-85.1937,51.3342) 
+Succesfully finished Positive track propagation  -------------- with AN:  (13.8387,-85.3135,51.3686) 
+Succesfully finished Negative track propagation  -------------- with RK:  (33.3697,-79.6848,51.3342) 
+Succesfully finished Negative track propagation  -------------- with AN:  (33.846,-79.5258,51.3686) 
+And now trying costh, phi = 0.81, 2.86
+Succesfully finished Positive track propagation  -------------- with RK:  (9.76201,-57.8732,81.2436) 
+Succesfully finished Positive track propagation  -------------- with AN:  (9.42534,-57.9341,81.2689) 
+Succesfully finished Negative track propagation  -------------- with RK:  (22.6431,-54.1469,81.2436) 
+Succesfully finished Negative track propagation  -------------- with AN:  (22.9603,-54.0187,81.2689) 
+ Succesfully reached the END of this test !!!!!!!!!! 
